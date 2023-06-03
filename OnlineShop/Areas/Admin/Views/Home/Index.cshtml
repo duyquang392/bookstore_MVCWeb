@@ -1,0 +1,98 @@
+﻿@model  OnlineShop.Areas.Admin.Models.HomeModel
+
+@{
+    ViewBag.Title = "Trang chủ";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    HttpApplicationState count = HttpContext.Current.ApplicationInstance.Application;
+}
+<p>Số lượng truy cập: @count["count_visit"]</p>
+<p>Đang truy cập: @count["SoluongOnline"]</p>
+
+<div class="card card-table-border-none" id="recent-orders">
+    <div class="card-header justify-content-between">
+        <h2>Thống kê tháng</h2>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6 col-lg-6 col-xl-4">
+                <div class="media widget-media p-4 bg-white border">
+                    <i class="mdi mdi-account-outline text-blue mr-4"></i>
+                    <div class="media-body align-self-center">
+                        <h4 class="text-primary mb-2">@Model.newUser</h4>
+                        <p>Khách hàng mới</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-6 col-xl-4">
+                <div class="media widget-media p-4 rounded bg-white border">
+                    <i class="mdi mdi-cart-outline text-warning mr-4"></i>
+                    <div class="media-body align-self-center">
+                        <h4 class="text-primary mb-2">@Model.newOrder</h4>
+                        <p>Đơn hàng</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-6 col-xl-4">
+                <div class="media widget-media p-4 rounded bg-white border">
+                    <i class="mdi mdi-diamond text-success mr-4"></i>
+                    <div class="media-body align-self-center">
+                        <h4 class="text-primary mb-2">@Model.totalSale đ</h4>
+                        <p>Tổng doanh thu</</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card card-table-border-none" id="recent-orders">
+    <div class="card-header justify-content-between">
+        <h2>Đơn hàng gần đây</h2>
+    </div>
+    <div class="card-body pt-0 pb-5">
+        <table class="table card-table table-responsive table-responsive-large" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Mã đơn hàng</th>
+                    <th class="d-none d-md-table-cell">Ngày đặt hàng</th>
+                    <th class="d-none d-md-table-cell">Tổng đơn hàng</th>
+                    <th>Trạng thái</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.recentOrders)
+                {
+                    <tr>
+                        <td>@item.ID</td>
+                        <td class="d-none d-md-table-cell">@item.CreatedDate</td>
+                        <td class="d-none d-md-table-cell">@item.Total</td>
+                        @if (@item.Status)
+                        {
+                            <td>
+                                <span class="badge badge-success">Hoàn thành</span>
+                            </td>
+                        }
+                        else
+                        {
+                            <td>
+                                <span class="badge badge-warning">Chưa hoàn thành</span>
+                            </td>
+                        }
+                        <td class="text-right">
+                            <div class="dropdown show d-inline-block widget-dropdown">
+                                <a class="dropdown-toggle icon-burger-mini" href="" role="button" id="dropdown-recent-order1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static"></a>
+                                <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdown-recent-order1">
+                                    <li class="dropdown-item">
+                                        <a href="/Admin/Order/Details/@item.ID">Chi tiết</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

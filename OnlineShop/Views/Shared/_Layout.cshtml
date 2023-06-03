@@ -1,0 +1,131 @@
+﻿<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Book Store</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="/assets/client/css/bootstrap.css" rel="stylesheet" />
+    <link href="/assets/client/css/boostrap-social.css" rel="stylesheet" />
+    <link href="/assets/client/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/assets/client/css/bootstrap-theme.css" rel="stylesheet" />
+    <link href="/assets/client/css/jquery-ui.css" rel="stylesheet" />
+    <link href="/assets/client/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/assets/client/css/slider.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="/assets/client/js/jquery-1.11.3.min.js"></script>
+    <script src="/assets/client/js/jquery-ui.js"></script>
+    <script src="/assets/client/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/assets/client/js/move-top.js"></script>
+    <script type="text/javascript" src="/assets/client/js/easing.js"></script>
+    <script type="text/javascript" src="/assets/client/js/startstop-slider.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        .mySlides {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <div class="header">
+            <div class="headertop_desc">
+                <div class="account_desc">
+                    @{
+                        var session = (UserLogin)Session[OnlineShop.Common.CommonConstants.USER_SESSION];
+                    }
+                    @if (session == null)
+                    {
+                    <ul>
+                        @*@foreach (var item in Model)
+        {
+            <li><a href="@item.Link" target="@item.Target">@item.Text</a></li>
+        }*@
+                        <li><a href="/dang-nhap" target="_self">Đăng nhập</a></li>
+                        <li><a href="/dang-ky" target="_self">Đăng ký</a></li>
+                    </ul>
+                    }
+                    else
+                    {
+                        <ul>
+                            <li>Xin chào:@session.UserName</li>
+                            <li>@Html.ActionLink("Thoát", "Logout", "User")</li>
+                        </ul>
+                    }
+
+                </div>
+            </div>
+            <div class="header_top">
+                <div class="logo">
+                    <a href="/" ref="nofollow"><img src="~/assets/client/images/logobookstore.jpg" alt="" /></a>
+                </div>
+                @{ Html.RenderAction("HeaderCart", "Home");}
+                <script type="text/javascript">
+			function DropDown(el) {
+				this.dd = el;
+				this.initEvents();
+			}
+			DropDown.prototype = {
+				initEvents : function() {
+					var obj = this;
+
+					obj.dd.on('click', function(event){
+						$(this).toggleClass('active');
+						event.stopPropagation();
+					});
+				}
+			}
+
+			$(function() {
+
+				var dd = new DropDown( $('#dd') );
+
+				$(document).click(function() {
+					// all dropdowns
+					$('.wrapper-dropdown-2').removeClass('active');
+				});
+
+			});
+
+                </script>
+                <div class="clear"></div>
+            </div>
+            <div class="header_bottom">
+                @{Html.RenderAction("MainMenu", "Home"); }
+                <div class="row" style="float:right; margin:15px;width:600px">
+                    <form action="/tim-kiem" method="get">
+                        <div class="col" style=" margin-left: 5px; margin-bottom:0px; width:25%"><input type="number" id="min" name="min" placeholder="Giá thấp nhất" style="width:100%" value="@ViewBag.minShow"></div>
+                        <div class="col" style=" margin-left: 5px; margin-bottom: 0px; width: 25% "><input type="number" id="max" name="max" placeholder="Giá cao nhất" style="width:100%" value="@ViewBag.maxShow"></div>
+                        <div class="col" style=" margin-left: 5px; margin-bottom: 0px "><input type="text" id="txtKeyword" name="keyword" placeholder="Gõ từ khoá" style="width:100%" value="@ViewBag.Keyword"></div>
+                        <div class="col" style=" margin-left: 5px; margin-bottom: 0px"><input type="submit" value="search"></div>
+                        
+                    </form>
+                </div>
+                <div class="clear"></div>
+            </div>
+            @RenderSection("slide", required: false)
+        </div>
+        <div class="main">
+            @RenderBody()
+        </div>
+    </div>
+    <div class="footer">
+        @{ Html.RenderAction("Footer", "Home");}
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $().UItoTop({ easingType: 'easeOutQuart' });
+
+        });
+    </script>
+    <a href="#" id="toTop"><span id="toTopHover"> </span></a>
+    <script src="/assets/client/js/controller/baseController.js"></script>
+    @RenderSection("jsFooter", required: false)
+</body>
+</html>

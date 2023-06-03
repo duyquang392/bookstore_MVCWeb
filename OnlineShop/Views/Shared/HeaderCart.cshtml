@@ -1,0 +1,14 @@
+﻿@model List<OnlineShop.Models.CartItem>
+<div class="cart">
+    <p>
+        <span><a href="/gio-hang/">Giỏ hàng:</a></span><div id="dd" class="wrapper-dropdown-2">
+            @Model.Count sản phẩm
+            <ul class="dropdown">
+                @foreach (var childItem in Model)
+                {
+                    <li>@childItem.Product.Name</li>
+                }
+            </ul>
+        </div>
+    </p>
+</div>

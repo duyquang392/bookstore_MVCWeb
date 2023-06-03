@@ -1,0 +1,88 @@
+﻿@model  OnlineShop.Areas.Admin.Models.ProductModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+
+@section header {
+    Chi tiết Sách
+}
+
+<div class="text-dark">
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.Name)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.Name)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.authorName)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.authorName)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.categoryName)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.categoryName)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.publishingCompanyName)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.publishingCompanyName)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>Ảnh</p></div>
+        <div class="col-md-5"><img src="@Model.ModelProduct.Image" width="100"></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.NumberOfBooks)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.NumberOfBooks)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.SoldOut)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.SoldOut)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.NumberOfPages)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.NumberOfPages)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.Price)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.Price)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.PromotionPrice)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.PromotionPrice)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.Description)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.Description)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.CreatedDate)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.CreatedDate)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.CreatedBy)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.CreatedBy)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.ModifiedDate)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.ModifiedDate)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.ModifiedBy)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.ModifiedBy)</p></div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.Status)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.Status)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModelProduct.ViewCount)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModelProduct.ViewCount)</p></div>
+    </div>
+
+</div>
+
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.ModelProduct.ID }) |
+    @Html.ActionLink("Trở về", "Index")
+</p>

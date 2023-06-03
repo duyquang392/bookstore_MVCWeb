@@ -1,0 +1,191 @@
+﻿@{
+    ViewBag.Title = "Trang chủ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var slides = (List<Model.EF.Slide>)ViewBag.Slides;
+    var check = true;
+    var listNewProducts = (List<Model.EF.Product>)ViewBag.NewProducts;
+    var listFeatureProducts = (List<Model.EF.Product>)ViewBag.ListFeatureProducts;
+}
+@section slide
+{
+
+    <div class="header_slide">
+        <div class="header_bottom_left">
+            <div class="categories">
+                @{ Html.RenderAction("ProductCategory", "Product");}
+            </div>
+        </div>
+        <div class="header_bottom_right">
+            <div class="w3-content w3-display-container">
+                @foreach (var item in slides)
+                {
+                    <a href="@item.Link"><img class="mySlides" src="@item.Image" style="height:500px"></a>
+
+                }
+                <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+                <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+            </div>
+
+            <script>
+                var slideIndex = 1;
+                showDivs(slideIndex);
+
+                function plusDivs(n) {
+                    showDivs(slideIndex += n);
+                }
+
+                function showDivs(n) {
+                    var i;
+                    var x = document.getElementsByClassName("mySlides");
+                    if (n > x.length) { slideIndex = 1 }
+                    if (n < 1) { slideIndex = x.length }
+                    for (i = 0; i < x.length; i++) {
+                        x[i].style.display = "none";
+                    }
+                    x[slideIndex - 1].style.display = "block";
+                }
+            </script>
+          
+</div>
+<div class="clear"></div>
+</div>
+}
+<div class="content">
+    <div class="content_top">
+        <div class="heading">
+            <h3>Sản phẩm mới</h3>
+        </div>
+        <div class="see">
+            <p><a href="/san-pham">Xem tất cả</a></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="section group">
+        @foreach (var item in listNewProducts)
+        {
+            var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+            if (item.Price == item.PromotionPrice)
+            {
+                <div class="grid_1_of_4 images_1_of_4" style="height: 440px" style="width:240px">
+                    <a href="@url"><img src="@item.Image" alt="" height="226px" /></a>
+                    <h2 style="height: 100px">@item.Name</h2>
+                    @*<span>@item.CateName</span>*@
+                    <div class="price-details">
+                        <div class="price-number">
+                            <p><span class="rupees">@(item.Price.HasValue ? item.Price.Value.ToString("N0") : "Liên hệ")&nbsp;đ</span></p>
+                        </div>
+                        <div class="add-cart">
+                            @if (item.NumberOfBooks > 0)
+                            {
+                                <h4><a href="/them-gio-hang?productId=@item.ID&quantity=1"style="font-size:0.6em">Thêm vào giỏ</a></h4>
+                            }
+                            else
+                            {
+                                <h4><a href="#" style="background: #000000; font-size: 0.6em">Hết hàng</a></h4>
+                            }
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+                </div>
+            }
+            else
+            {
+                <div class="grid_1_of_4 images_1_of_4" style="height: 440px" style="width:240px">
+                    <a href="@url"><img src="@item.Image" alt="" height="226px" /></a>
+                    <h2 style="height: 100px">@item.Name</h2>
+
+                    <div class="price-details">
+                        <div class="price-number">
+                            <p style="margin: 0; padding: 0; text-decoration-line: line-through"><span >@(item.Price.HasValue ? item.Price.Value.ToString("N0") : "Liên hệ")&nbsp;đ</span></p>
+                            <p style=""><span style="color: red;font-family: ambleregular;font-size:25px">@(item.PromotionPrice.HasValue ? item.PromotionPrice.Value.ToString("N0") : "Liên hệ")&nbsp;đ</span></p>
+                        </div>
+                        
+                        <div class="add-cart">
+                             @if (item.NumberOfBooks > 0)
+                            {
+                                <h4><a href="/them-gio-hang?productId=@item.ID&quantity=1"style="font-size:0.6em">Thêm vào giỏ</a></h4>
+                            }
+                            else
+                            {
+                                <h4><a href="#" style="background: #000000;font-size:0.6em" >Hết hàng</a></h4>
+                            }
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+                </div>
+            }
+
+        }
+
+    </div>
+    <div class="content_bottom">
+        <div class="heading">
+            <h3>Sản phẩm hot</h3>
+        </div>
+        <div class="see">
+            <p><a href="/san-pham">Xem tất cả</a></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="section group">
+        @foreach (var item in listFeatureProducts)
+        {
+            var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+            if (item.Price == item.PromotionPrice)
+            {
+                <div class="grid_1_of_4 images_1_of_4" style="height: 440px" style="width:240px">
+                    <a href="@url"><img src="@item.Image" alt="" height="226px" /></a>
+                    <h2 style="height: 100px">@item.Name</h2>
+                    @*<span>@item.CateName</span>*@
+                    <div class="price-details">
+                        <div class="price-number">
+                            <p><span class="rupees">@(item.Price.HasValue ? item.Price.Value.ToString("N0") : "Liên hệ")&nbsp;đ</span></p>
+                        </div>
+                        <div class="add-cart">
+                            @if (item.NumberOfBooks > 0)
+                            {
+                                <h4><a href="/them-gio-hang?productId=@item.ID&quantity=1" style="font-size:0.6em">Thêm vào giỏ</a></h4>
+                            }
+                            else
+                            {
+                                <h4><a href="#" style="background: #000000; font-size: 0.6em">Hết hàng</a></h4>
+                            }
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+                </div>
+            }
+            else
+            {
+                <div class="grid_1_of_4 images_1_of_4" style="height: 440px" style="width:240px">
+                    <a href="@url"><img src="@item.Image" alt="" height="226px" /></a>
+                    <h2 style="height: 100px">@item.Name</h2>
+
+                    <div class="price-details">
+                        <div class="price-number">
+                            <p style="margin: 0; padding: 0; text-decoration-line: line-through"><span>@(item.Price.HasValue ? item.Price.Value.ToString("N0") : "Liên hệ")&nbsp;đ</span></p>
+                            <p style=""><span style="color: red;font-family: ambleregular;font-size:25px">@(item.PromotionPrice.HasValue ? item.PromotionPrice.Value.ToString("N0") : "Liên hệ")&nbsp;đ</span></p>
+                        </div>
+
+                        <div class="add-cart">
+                            @if (item.NumberOfBooks > 0)
+                            {
+                                <h4><a href="/them-gio-hang?productId=@item.ID&quantity=1" style="font-size:0.6em">Thêm vào giỏ</a></h4>
+                            }
+                            else
+                            {
+                                <h4><a href="#" style="background: #000000;font-size:0.6em">Hết hàng</a></h4>
+                            }
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+                </div>
+            }
+        }
+    </div>
+</div>
+

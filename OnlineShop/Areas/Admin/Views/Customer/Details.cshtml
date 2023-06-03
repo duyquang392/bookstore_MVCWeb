@@ -1,0 +1,61 @@
+﻿@model Model.EF.User
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layouts.cshtml";
+}
+
+
+@section header {
+    Chi tiết Khách hàng
+}
+
+<div class="text-dark">
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.UserName)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.UserName)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.Name)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.Name)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.Password)</p></div>
+        <div class="col-md-5"><p>@Html.PasswordFor(model => model.Password)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.Phone)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.Phone)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.Address)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.Address)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.CreatedDate)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.CreatedDate)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.CreatedBy)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.CreatedBy)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModifiedDate)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModifiedDate)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.ModifiedBy)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.ModifiedBy)</p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-5"><p>@Html.DisplayNameFor(model => model.Status)</p></div>
+        <div class="col-md-5"><p>@Html.DisplayFor(model => model.Status)</p></div>
+    </div>
+
+</div>
+
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Trở về", "Index")
+</p>
+

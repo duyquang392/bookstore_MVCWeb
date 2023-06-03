@@ -1,0 +1,108 @@
+E:\CNW\OnlineShop\Model\bin\Debug\Model.dll.config
+E:\CNW\OnlineShop\Model\bin\Debug\Model.dll
+E:\CNW\OnlineShop\Model\bin\Debug\Model.pdb
+E:\CNW\OnlineShop\Model\bin\Debug\Common.dll
+E:\CNW\OnlineShop\Model\bin\Debug\EntityFramework.dll
+E:\CNW\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\CNW\OnlineShop\Model\bin\Debug\PagedList.dll
+E:\CNW\OnlineShop\Model\bin\Debug\PagedList.Mvc.dll
+E:\CNW\OnlineShop\Model\bin\Debug\Common.pdb
+E:\CNW\OnlineShop\Model\bin\Debug\EntityFramework.xml
+E:\CNW\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\CNW\OnlineShop\Model\bin\Debug\PagedList.xml
+E:\CNW\OnlineShop\Model\bin\Debug\PagedList.Mvc.xml
+E:\CNW\OnlineShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\CNW\OnlineShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\CNW\OnlineShop\Model\obj\Debug\Model.csproj.CopyComplete
+E:\CNW\OnlineShop\Model\obj\Debug\Model.dll
+E:\CNW\OnlineShop\Model\obj\Debug\Model.pdb
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\Model.dll.config
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\Model.dll
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\Model.pdb
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\Common.dll
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\EntityFramework.dll
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\PagedList.dll
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\PagedList.Mvc.dll
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\Common.pdb
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\EntityFramework.xml
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\PagedList.xml
+E:\CNW\BTL\OnlineShop\Model\bin\Debug\PagedList.Mvc.xml
+E:\CNW\BTL\OnlineShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\CNW\BTL\OnlineShop\Model\obj\Debug\Model.csproj.CopyComplete
+E:\CNW\BTL\OnlineShop\Model\obj\Debug\Model.dll
+E:\CNW\BTL\OnlineShop\Model\obj\Debug\Model.pdb
+E:\CNW\BTL\OnlineShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\Model.dll.config
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\Model.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\Model.pdb
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\Common.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\EntityFramework.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\PagedList.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\PagedList.Mvc.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\Common.pdb
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\EntityFramework.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\PagedList.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\bin\Debug\PagedList.Mvc.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\obj\Debug\Model.csproj.CopyComplete
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\obj\Debug\Model.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\Model\obj\Debug\Model.pdb
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\Model.dll.config
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\Model.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\Model.pdb
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\Common.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\EntityFramework.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\PagedList.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\Common.pdb
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\EntityFramework.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\PagedList.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\obj\Debug\Model.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\Model\obj\Debug\Model.pdb
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\Model.dll.config
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\Model.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\Model.pdb
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\Common.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\EntityFramework.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\PagedList.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\PagedList.Mvc.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\Common.pdb
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\EntityFramework.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\PagedList.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\bin\Debug\PagedList.Mvc.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\obj\Debug\Model.csproj.CopyComplete
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\obj\Debug\Model.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\Model\obj\Debug\Model.pdb
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\Model.dll.config
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\Model.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\Model.pdb
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\Common.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\EntityFramework.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\PagedList.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\PagedList.Mvc.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\Common.pdb
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\EntityFramework.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\PagedList.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\bin\Debug\PagedList.Mvc.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\obj\Debug\Model.csproj.CopyComplete
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\obj\Debug\Model.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\Model\obj\Debug\Model.pdb

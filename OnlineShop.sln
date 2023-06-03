@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop", "OnlineShop\OnlineShop.csproj", "{32D71D9B-B09D-4F69-BDD4-FFAA1C18B220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{99A38614-8166-4E23-A832-C01C91CF0B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{FA7E2BA6-2CA0-4B51-B40A-D77FBD1B4AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D71D9B-B09D-4F69-BDD4-FFAA1C18B220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D71D9B-B09D-4F69-BDD4-FFAA1C18B220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D71D9B-B09D-4F69-BDD4-FFAA1C18B220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D71D9B-B09D-4F69-BDD4-FFAA1C18B220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A38614-8166-4E23-A832-C01C91CF0B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A38614-8166-4E23-A832-C01C91CF0B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A38614-8166-4E23-A832-C01C91CF0B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A38614-8166-4E23-A832-C01C91CF0B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7E2BA6-2CA0-4B51-B40A-D77FBD1B4AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7E2BA6-2CA0-4B51-B40A-D77FBD1B4AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7E2BA6-2CA0-4B51-B40A-D77FBD1B4AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7E2BA6-2CA0-4B51-B40A-D77FBD1B4AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E93EB13-7CD6-4B64-90A4-9FF231C91F0B}
+	EndGlobalSection
+EndGlobal

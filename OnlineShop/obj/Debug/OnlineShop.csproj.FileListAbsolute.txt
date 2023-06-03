@@ -1,0 +1,678 @@
+E:\CNW\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+E:\CNW\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\CNW\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Globalization.Calendars.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Net.Http.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Net.Sockets.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\CNW\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\CNW\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+E:\CNW\OnlineShop\OnlineShop\bin\BotDetect.dll
+E:\CNW\OnlineShop\OnlineShop\bin\BotDetect.Web.Mvc.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Common.dll
+E:\CNW\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\CNW\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Facebook.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Model.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Owin.dll
+E:\CNW\OnlineShop\OnlineShop\bin\PagedList.dll
+E:\CNW\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+E:\CNW\OnlineShop\OnlineShop\bin\System.Data.SQLite.dll
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.dll
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.dll
+E:\CNW\OnlineShop\OnlineShop\bin\WebGrease.dll
+E:\CNW\OnlineShop\OnlineShop\bin\Common.pdb
+E:\CNW\OnlineShop\OnlineShop\bin\Model.pdb
+E:\CNW\OnlineShop\OnlineShop\bin\Model.dll.config
+E:\CNW\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\CNW\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+E:\CNW\OnlineShop\OnlineShop\bin\Facebook.xml
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.xml
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.xml
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CNW\OnlineShop\OnlineShop\bin\PagedList.xml
+E:\CNW\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+E:\CNW\OnlineShop\OnlineShop\bin\System.Data.SQLite.xml
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.xml
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+E:\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.xml
+E:\CNW\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+E:\CNW\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+E:\CNW\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNW\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+E:\CNW\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+E:\CNW\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+E:\CNW\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\CNW\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Globalization.Calendars.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Net.Http.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Net.Sockets.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\BotDetect.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\BotDetect.Web.Mvc.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Common.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Facebook.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.Owin.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Model.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Owin.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\PagedList.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Data.SQLite.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.WebPages.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\WebGrease.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Common.pdb
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Model.pdb
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Model.dll.config
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Facebook.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.Owin.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\PagedList.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Data.SQLite.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.WebPages.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+E:\CNW\BTL\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNW\BTL\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+E:\CNW\BTL\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+E:\CNW\BTL\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+E:\CNW\BTL\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\CNW\BTL\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Globalization.Calendars.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Net.Http.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Net.Sockets.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\BotDetect.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\BotDetect.Web.Mvc.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Common.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Facebook.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Mail.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Model.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Owin.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\PagedList.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Data.SQLite.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\WebGrease.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Common.pdb
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Model.pdb
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Model.dll.config
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Facebook.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Mail.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\PagedList.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Data.SQLite.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\CNWeb\CNW-20210615T105840Z-001\CNW\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Net.Http.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\BotDetect.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\BotDetect.Web.Mvc.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Common.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\EntityFramework.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Facebook.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Mail.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.Owin.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Model.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Owin.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\PagedList.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Data.SQLite.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.WebPages.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\WebGrease.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Common.pdb
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Model.pdb
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Model.dll.config
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\EntityFramework.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Facebook.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Mail.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.Owin.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\PagedList.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Data.SQLite.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.WebPages.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\ThuTran\Downloads\OnlineShop (1)\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Globalization.Calendars.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Net.Http.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Net.Sockets.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\BotDetect.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\BotDetect.Web.Mvc.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\CKFinder.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Common.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Facebook.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Mail.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.Owin.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Model.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Owin.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\PagedList.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Data.SQLite.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.WebPages.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\WebGrease.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Common.pdb
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Model.pdb
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Model.dll.config
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Facebook.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Mail.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.Owin.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\PagedList.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Data.SQLite.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.WebPages.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\CNWeb\BTCuoiKy\OnlineShop\OnlineShop\bin\CKFinder.pdb
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Globalization.Calendars.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Net.Http.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Net.Sockets.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\BotDetect.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\BotDetect.Web.Mvc.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\CKFinder.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Common.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Facebook.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Mail.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.Owin.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Model.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Owin.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\PagedList.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Data.SQLite.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.WebPages.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\WebGrease.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Common.pdb
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Model.pdb
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Model.dll.config
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\CKFinder.pdb
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Facebook.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Mail.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.Owin.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\PagedList.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Data.SQLite.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.WebPages.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\CNWeb\BTCuoiKy\OnlineShopOK\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
